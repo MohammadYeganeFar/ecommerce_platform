@@ -1,0 +1,14 @@
+categori,product,cost,inventory,ordered
+Electronic,iPhone13,1000,8,5
+Electronic,MacBook Pro,2000,5,2
+Electronic,AirPods Pro,249,15,8
+FoodStuffs,Premium Coffee,15,50,10
+FoodStuffs,Dark Chocolate,8,100,25
+FoodStuffs,Organic Tea,12,75,15
+Clothing,Denim Jacket,89,20,5
+Clothing,Running Shoes,120,30,12
+Books,Python Masters,45,25,8
+Books,Data Science,55,15,5
+Sports,Yoga Mat,35,40,15
+Sports,Dumbbells Set,85,20,8
+Detergent,Eco Wash,18,60,20

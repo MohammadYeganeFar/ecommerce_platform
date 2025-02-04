@@ -1,0 +1,4 @@
+shipment_factory called in 0.0019254684448242188 seconds
+shipment_factory called in 0.002513408660888672 seconds
+shipment_factory called in 0.0020389556884765625 seconds
+shipment_factory called in 0.0 seconds

@@ -1,0 +1,3 @@
+exeption : <class 'apps.account.auth.PasswordTooShort'>, at Sun Jan 26 13:27:46 2025
+exeption : <class 'apps.account.auth.PasswordTooShort'>, at Sun Jan 26 13:27:53 2025
+exeption : <class 'apps.account.auth.PasswordTooShort'>, at Sun Jan 26 13:27:53 2025

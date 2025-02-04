@@ -1,0 +1,45 @@
+{
+    "mmd": {
+        "cart": {
+            "iPhone 13": {
+                "amount": 3,
+                "cost": 1000,
+                "tot cost": 3000
+            }
+        },
+        "finalized": {
+            "laptop": {
+                "amount": 1,
+                "cost": 588000,
+                "tot cost": "878000"
+            },
+            "pofak": {
+                "amount": 2,
+                "cost": 10,
+                "tot cost": 20
+            }
+        }
+    },
+    "username": {
+        "cart": {
+            "product1": {
+                "amount": 2,
+                "cost": 100,
+                "tot cost": 200
+            }
+        },
+        "finalized": {
+            "product2": {
+                "amount": 1,
+                "cost": 50,
+                "tot cost": 50,
+                "shipping": {
+                    "method": "Express",
+                    "delivery_time": "2024-02-01",
+                    "tracking_id": "XYZ123",
+                    "cost": 10
+                }
+            }
+        }
+    }
+}
